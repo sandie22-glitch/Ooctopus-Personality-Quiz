@@ -117,12 +117,13 @@ body {
 }
 
 .main-title {
-    font-size: 28px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 36px;
     font-weight: 600;
     color: #1a1a1a;
     text-align: center;
     margin-bottom: 32px;
-    letter-spacing: -0.5px;
+    letter-spacing: 0.5px;
 }
 
 .progress-bar {
@@ -385,7 +386,7 @@ body {
     }
 
     .main-title {
-        font-size: 24px;
+        font-size: 30px;
         margin-bottom: 28px;
     }
 
